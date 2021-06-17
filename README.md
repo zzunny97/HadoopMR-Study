@@ -1,4 +1,4 @@
-# HadoopMR_Template
+# HadoopMR-Study
 다양한 하둡 맵리듀스 프로젝트들을 개발하는 레포
 
 ## Description
